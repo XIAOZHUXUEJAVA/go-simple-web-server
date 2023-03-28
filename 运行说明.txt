@@ -1,0 +1,7 @@
+1. 首先需要有运行golang程序的环境
+
+2. 在这个文件夹目录下进入命令行
+运行引号中的命令： "go run main.go"  
+
+3. 浏览器输入 
+http://localhost:6789/hello.html
